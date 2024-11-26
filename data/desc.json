@@ -1,0 +1,8 @@
+{
+  "species":"Choose your species...",
+  "Night Fury":{
+    "choice":"Which Path?",
+    "gender":"Gender",
+    "age":"Age?"
+  }
+}

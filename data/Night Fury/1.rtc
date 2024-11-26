@@ -1,0 +1,11 @@
+GEN=Male
+KIND=Hatchling
+AUTHOR=Sky
+
+DIALOG Page001
+    #SFW
+    You are a young male night fury who has just hatched from your egg. You look around and noticed that the nest is empty with the sole exception of the remains of your eggshell.
+    #NSFW
+    You are a young male night fury who has just hatched from your egg. You look around and noticed that the nest is empty with the sole exception of the remains of your eggshell.
+CHOICE Page001
+    [Look around the nest](_page001)age
