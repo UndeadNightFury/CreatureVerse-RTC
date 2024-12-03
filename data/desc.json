@@ -4,5 +4,9 @@
     "choice":"Which Path?",
     "gender":"Gender",
     "age":"Age?"
+  },
+  "Xenomorph":{
+    "choice":"Which Path?",
+    "gender":"Drone"
   }
 }

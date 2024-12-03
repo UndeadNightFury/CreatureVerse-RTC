@@ -1,0 +1,9 @@
+GEN=Male
+KIND=Warrior
+AUTHOR=Sky
+
+DIALOG page001
+    #SFW
+    Test
+CHOICE page001
+    [test](page002)
