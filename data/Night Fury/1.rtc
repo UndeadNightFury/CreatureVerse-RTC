@@ -5,23 +5,21 @@ AUTHOR=Sky
 DIALOG page001
     #SFW
     You are a young male night fury who has just hatched from your egg. You look around and noticed that the nest is empty with the sole exception of the remains of your eggshell.
-    #NSFW
-    You are a young male night fury who has just hatched from your egg. You look around and noticed that the nest is empty with the sole exception of the remains of your eggshell.
 CHOICE page001
     [Look around the nest](page002)
 
 DIALOG page002
     #SFW
     You walk around the cave looking at anything and everything. After 3 hours of searching you have looked in every crack and every crevice in the cave until you find only a small crack in the wall with barely enough room for your body to fit through, you notice you could fit through the small hole if you put enough effort into it...
-CHOICE
+CHOICE page002
     [Leave the cave](page003)
 
 DIALOG page003
     #SFW
     You leave the safety of the cave you hatched in, the sun blinding your sensitive eyes for a moment. Clearing your eyes you look around and see a beautiful grove within a forest that surrounds your nest. Exploring the grove you find a small lake near some tall grass and begin to feel thirsty. You decide to take a drink from the lake, but a male indoraptor surprises you by jumping out of the grass. He looks really thin, almost skeletal. You think he must be really hungry!
-CHOICE
+CHOICE page003
     [Call for your mother](page004)
-    
+
 DIALOG page004
     #SFW
     The hungry-looking indoraptor crawls slowly towards you until he was only a few feet away. You yelp and let out a quick cry for help as he tries to kill you. Suddenly your mother lands not far away and tackles the indoraptor.
@@ -39,4 +37,5 @@ DIALOG page004
     "No!" You roar in shock as you witness the fatal wound occur.
 
     Dam turns to look at you with a pained look on her muzzle "Run!" she said as the indoraptor tears her throat out and the light rapidly left dams eyes and she collapses to the ground lifelessly.
+CHOICE page004
     [Run you fool!](page005)
