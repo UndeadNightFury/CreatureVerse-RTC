@@ -4,6 +4,7 @@ AUTHOR=Sky
 
 DIALOG page001
     #SFW
-    Test
+    PHOENIX
+    You wake up and look down at your avian-like taloned feet and put on your specially designed slippers that have grips.
 CHOICE page001
     [test](page002)
