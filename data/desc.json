@@ -1,9 +1,9 @@
 {
   "species":"Choose your species...",
   "Night Fury":{
-    "choice":"Which Path?",
-    "gender":"Gender",
-    "age":"Age?"
+    "choice":"Which Story?",
+    "gender":"What is your gender?",
+    "age":"What is your age?"
   },
   "Xenomorph":{
     "choice":"Which Path?",

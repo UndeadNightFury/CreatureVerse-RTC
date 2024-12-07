@@ -39,3 +39,15 @@ DIALOG page004
     Dam turns to look at you with a pained look on her muzzle "Run!" she said as the indoraptor tears her throat out and the light rapidly left dams eyes and she collapses to the ground lifelessly.
 CHOICE page004
     [Run you fool!](page005)
+
+DIALOG page005
+    #SFW
+    You turn and flee as fast as you can back to your nest...
+CHOICE page005
+    [Huddle in a corner](page006)
+
+DIALOG page006
+    #SFW
+    Terrified that the indoraptor will hunt you down to finish you off, you huddle in a corner in terror. After some time you can hear the clicking of something approaching the entrance to the nest...
+CHOICE page006
+    _[Sneak out to look whats coming](page007)
