@@ -8,5 +8,10 @@
   "Xenomorph":{
     "choice":"Which Path?",
     "gender":"Drone"
+  },
+  "Were-Phoenix":{
+  "choice":"Which story?",
+  "gender":"What is your gender?",
+  "age":"What is your age?"
   }
 }
