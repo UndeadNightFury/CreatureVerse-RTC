@@ -9,6 +9,8 @@ DIALOG page001
     You are a young male night fury who has just hatched from your egg. You look around and noticed that the nest is empty with the sole exception of the remains of your eggshell.
 CHOICE page001
     [Look around the nest](page002)
+    [Leave the cave](page003)
+    [Take a nap](SOON)
 
 DIALOG page002
     #SFW
@@ -17,6 +19,8 @@ DIALOG page002
     You walk around the cave looking at anything and everything. After 3 hours of searching you have looked in every crack and every crevice in the cave until you find only a small crack in the wall with barely enough room for your body to fit through, you notice you could fit through the small hole if you put enough effort into it...
 CHOICE page002
     [Leave the cave](page003)
+    [Squeeze through the hole in the wall](SOON)
+    [Examine the bookshelf](SOON)
 
 DIALOG page003
     #SFW
@@ -24,24 +28,25 @@ DIALOG page003
     #NSFW
     You leave the safety of the cave you hatched in, the sun blinding your sensitive eyes for a moment. Clearing your eyes you look around and see a beautiful grove within a forest that surrounds your nest. Exploring the grove you find a small lake near some tall grass and begin to feel thirsty. You decide to take a drink from the lake, but a male indoraptor surprises you by jumping out of the grass. He looks really thin, almost skeletal. You think he must be really hungry!
 CHOICE page003
+    [RUN!](SOON)
     [Call for your mother](page004)
 
 DIALOG page004
     #SFW
     The hungry-looking indoraptor crawls slowly towards you until he was only a few feet away. You yelp and let out a quick cry for help as he tries to kill you. Suddenly your mother lands not far away and tackles the indoraptor.
-
+    <br>
     "Hide!" she roars at you as she begins fighting the other creature.
-
+    <br>
     After a few minutes of frantic battling your mother is fatally wounded and dies telling you to flee...
     #NSFW
     The hungry indoraptor stalks slowly towards you menacingly until he was only a few feet away. You yelp as he lunges at your throat going for a quick kill. "Help!" You yell as you try in vain to free yourself from the starving indoraptor.
-
+    <br>
     Suddenly, a female night fury blasts the indoraptor. She turns her head to face you "Hide!" she yells before she turns back toward the Indoraptor. You turn around and found a place to hide until dam said it was safe. You watched in fear as dam attacks the indoraptor blasting and clawing him.
-
+    <br>
     It wasn't long before the younger indoraptor managed to get the advantage over dam. Having the advantage the indoraptor was quick to disembowel her, You looked horrified as you saw your dams intestines slip out of her underbelly with a splat.
-
+    <br>
     "No!" You roar in shock as you witness the fatal wound occur.
-
+    <br>
     Dam turns to look at you with a pained look on her muzzle "Run!" she said as the indoraptor tears her throat out and the light rapidly left dams eyes and she collapses to the ground lifelessly.
 CHOICE page004
     [Run you fool!](page005)
@@ -60,4 +65,4 @@ DIALOG page006
     #NSFW
     Terrified that the indoraptor will hunt you down to finish you off, you huddle in a corner in terror. After some time you can hear the clicking of something approaching the entrance to the nest...
 CHOICE page006
-    _[Sneak out to look whats coming](page007)
+    [Sneak out to look whats coming](SOON)
